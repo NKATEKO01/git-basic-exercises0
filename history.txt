@@ -1,0 +1,1000 @@
+ 1011  touch task4.py
+ 1012  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task4.py
+ 1013  git status
+ 1014  git add task4.py
+ 1015  git commit -m "added task4"
+ 1016  git status
+ 1017  cat task4.py
+ 1018  git push
+ 1019  git push --set-upstream origin task4
+ 1020  git checkout main
+ 1021  git pull
+ 1022  git checkout -b task/5
+ 1023  git branch
+ 1024  git status
+ 1025  ls
+ 1026  touch task5.py
+ 1027  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1028  git status
+ 1029  git branch
+ 1030  git add task5.py
+ 1031  git commit/usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1032  git commit -m "added task 5"
+ 1033  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1034  git status
+ 1035  git push
+ 1036  git push --set-upstream origin task/5
+ 1037  git checkout main
+ 1038  git pull
+ 1039  git checkout -b task/2
+ 1040  git checkout -b task/6
+ 1041  git status
+ 1042  touch task6
+ 1043  git status
+ 1044  git branch
+ 1045  git checkout branch task4
+ 1046  git checkout  task4
+ 1047  git staus
+ 1048  git status
+ 1049  .git branch
+ 1050  git branch
+ 1051  ls
+ 1052  git status
+ 1053  git add task1.py
+ 1054  git push
+ 1055  git rm task6.py
+ 1056  ls
+ 1057  git status
+ 1058  git pull
+ 1059  git status
+ 1060  ls
+ 1061  git push
+ 1062  git status
+ 1063  git push
+ 1064  git log
+ 1065  git push
+ 1066  lss-a
+ 1067  ls -a
+ 1068  git status
+ 1069  git commit -m "restore file"
+ 1070  git push
+ 1071  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task1.py
+ 1072  sudo last -x
+ 1073  ls
+ 1074  runlevel
+ 1075  /etc/init/
+ 1076  etc/init
+ 1077  /etc/init.d/
+ 1078  /etc/rc.local
+ 1079  etc/rc*.d
+ 1080  ps aux | grep shutdown
+ 1081  status
+ 1082  date --date @$(head -1 /run/systemd/shutdown/scheduled |cut -c6-15)
+ 1083  shutdown +5
+ 1084  shutdown -c
+ 1085  shutdown +5
+ 1086  systemctl status systemd-shutdownd.service
+ 1087  shutdown +5
+ 1088  shutdown -c
+ 1089  git status
+ 1090  ls
+ 1091  git log
+ 1092  service status
+ 1093  shutdown +5
+ 1094  'shutdown -c'
+ 1095  shutdown -c
+ 1096  pip install black
+ 1097  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task6.py
+ 1098  git status
+ 1099  git add task.6
+ 1100  git add task6.py
+ 1101  git commit -m (task 6 added)
+ 1102  git commit -m "task 6 added"
+ 1103  git status
+ 1104  git push
+ 1105  def find_longest(word_list):
+ 1106  counter = find_longest(["once","upon","a","time"])
+ 1107  for el in counter:;     print(el)git push
+ 1108  git status
+ 1109  git log
+ 1110  git push --set-upstream origin task/6
+ 1111  git checkout main
+ 1112  git pull
+ 1113  git branch
+ 1114  git checkout main
+ 1115  git pull
+ 1116  git checkout -b task/7
+ 1117  git branch
+ 1118  nano task7.py
+ 1119  git status
+ 1120  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task7.py
+ 1121  git add task7.py
+ 1122  git commit -m "task7 added"
+ 1123  git status
+ 1124  git push
+ 1125  git push --set-upstream origin task/7
+ 1126  git status
+ 1127  git checkout main
+ 1128  git pull
+ 1129  git branch
+ 1130  git status
+ 1131  git branch
+ 1132  /usr/bin/python3 /home/recruit/Desktop/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task1.py
+ 1133  cd
+ 1134  status
+ 1135  sudo apt install libxml2:i386 gdebi-core
+ 1136  wget ftp://ftp.adobe.com/pub/adobe/reader/unix/9.x/9.5.5/enu/AdbeRdr9.5.5-1_i386linux_enu.deb
+ 1137  sudo gdebi AdbeRdr9.5.5-1_i386linux_enu.deb
+ 1138  https://github.com/Umuzi-org/Nkateko-Mabaso-705-contentitem-python.git
+ 1139  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Untitled-1.py"
+ 1140  git status
+ 1141  git branch
+ 1142  git status
+ 1143  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/get customer baskets.py"
+ 1144  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/get all customers.py"
+ 1145  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/required stock.py"
+ 1146  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/get customer baskets.py"
+ 1147  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/required stock.py"
+ 1148  cd/
+ 1149  git home
+ 1150  git branch
+ 1151  git checkout main
+ 1152  git status
+ 1153  git pull
+ 1154  git status
+ 1155  https://github.com/Umuzi-org/Nkateko-Mabaso-705-contentitem-python.git
+ 1156  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping list.py"
+ 1157  git status
+ 1158  git add raw_data
+ 1159  git commit-m "added raw data"
+ 1160  git status
+ 1161  git add shopping list.py
+ 1162  git add shopping_list.py
+ 1163  git add shopping list
+ 1164  git status
+ 1165  git add shopping_list.py
+ 1166  git commit ~m "added shopping list"
+ 1167  git commit -m "added shopping list"
+ 1168  git push
+ 1169  'https://github.com/Umuzi-org/Nkateko-Mabaso-705-contentitem-python.git
+ 1170  q
+ 1171  git push
+ 1172  n
+ 1173  git push
+ 1174  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1175  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1176  Q
+ 1177  git status
+ 1178  git push
+ 1179  git init
+ 1180  git push
+ 1181  git log
+ 1182  git push
+ 1183  git remote
+ 1184  git pull
+ 1185  git push
+ 1186  git status
+ 1187  git push
+ 1188  git status
+ 1189  git branch
+ 1190  git checkout shopping_list
+ 1191  git status
+ 1192  git rm.
+ 1193  git rm raw_data
+ 1194  git rm shopping_list.py
+ 1195  git status
+ 1196  git branch
+ 1197  git status
+ 1198  git checkout main
+ 1199  git status
+ 1200  git commit -m "deleted files"
+ 1201  git status
+ 1202  git checkout shopping/list
+ 1203  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1204  git status
+ 1205  git log
+ 1206  git add data
+ 1207  git commit -m "added files"
+ 1208  git log
+ 1209  git status
+ 1210  git push
+ 1211  git push --set-upstream origin shopping/list
+ 1212  git status
+ 1213  git rm data
+ 1214  git commit -m "removed data"
+ 1215  git status
+ 1216  git push
+ 1217  git checkout main
+ 1218  git push
+ 1219  git status
+ 1220  git clone https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1221  git init
+ 1222  git status
+ 1223  git branch
+ 1224  git status
+ 1225  git add Nkateko-Mabaso-223-person-python/
+ 1226  git status
+ 1227  git branch
+ 1228  git commit -m "added readme"
+ 1229  git status
+ 1230  git branch
+ 1231  git log
+ 1232  git status
+ 1233  git branch
+ 1234  git checkout master
+ 1235  git checkout -b person/branch
+ 1236  git branch
+ 1237  /usr/bin/python3 "/home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class Person:.py"
+ 1238  git status
+ 1239  git brtanch
+ 1240  git branch
+ 1241  git status
+ 1242  git add class_Person.py
+ 1243  git add Nkateko-Mabaso-223-person-python/class_Person.py
+ 1244  git commit -m "added person"
+ 1245  git status
+ 1246  git push
+ 1247  git remote add https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1248  git push
+ 1249  git branch
+ 1250  git checkout master
+ 1251  git push
+ 1252  git checkout person/branch
+ 1253  git status
+ 1254  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1255  git add class_Person.py
+ 1256  cd/Nkateko-Mabaso-223-person-python
+ 1257  cd Nkateko-Mabaso-223-person-python
+ 1258  git status
+ 1259  git add class_person.py
+ 1260  git add class_Person.py
+ 1261  git commit -m "added person file"
+ 1262  git status
+ 1263  git push
+ 1264  git branch
+ 1265  git rm class_Person.py
+ 1266  git commit -m "removed file"
+ 1267  git branch
+ 1268  git branch -b person/branch
+ 1269  git checkout -b person/branch
+ 1270  git status
+ 1271  git add class_Person.py
+ 1272  git commit -m "added class file"
+ 1273  git push
+ 1274  git push --set-upstream origin person/branch
+ 1275  git status
+ 1276  git checkout main
+ 1277  git status
+ 1278  git branhc
+ 1279  git branch
+ 1280  git checkout person/branch
+ 1281  git status
+ 1282  git checkout person-work-branch
+ 1283  git status
+ 1284  git branch
+ 1285  git checkout shopping/list
+ 1286  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1287  git push
+ 1288  git checkout main
+ 1289  git status
+ 1290  git add .
+ 1291  git status
+ 1292  git commit -m "updated shopping list"
+ 1293  git push
+ 1294  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1295  git status
+ 1296  git add raw_data
+ 1297  git add .
+ 1298  git status
+ 1299  git commit-m "updated shopiing list"
+ 1300  git commit~m "updated shopiing list"
+ 1301  git status
+ 1302  git push
+ 1303  git branch
+ 1304  git push
+ 1305  git checkout main
+ 1306  git commit-m "updated shopiing list"
+ 1307  git commit -m "updated shopping list"
+ 1308  git push
+ 1309  git checkout main
+ 1310  git push
+ 1311  git pull
+ 1312  git branch
+ 1313  git checkout person/branch
+ 1314  git status
+ 1315  git checkout person-work-branch
+ 1316  git status
+ 1317  git branch
+ 1318  git checkout shopping/list
+ 1319  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1320  git push
+ 1321  git pull
+ 1322  git status
+ 1323  git add shopping_list.py
+ 1324  git commit -m "added shopping list"
+ 1325  git status
+ 1326  git pull
+ 1327  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1328  git status
+ 1329  git log
+ 1330  git status
+ 1331  git add class_Person.py
+ 1332  git add Nkateko-Mabaso-223-person-python/class_Person.py
+ 1333  git status
+ 1334  git commit -m "added class"
+ 1335  git status
+ 1336  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1337  git push
+ 1338  git remote add class_Person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1339  git push class_Person.py
+ 1340  git branch
+ 1341  git checkout person/branch
+ 1342  git status
+ 1343  git branch
+ 1344  git branch -d person-work-branch
+ 1345  git checkout master
+ 1346  git status
+ 1347  git commit -a
+ 1348  git status
+ 1349  git add .
+ 1350  git commit -m "added class"
+ 1351  git status
+ 1352  git branch -d person-work-branch
+ 1353  git checkout master
+ 1354  git branch -d person-work-branch
+ 1355  git branch -D person-work-branch
+ 1356  git branch
+ 1357  git checkout person/branch
+ 1358  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1359  git status
+ 1360  git add .
+ 1361  git commit -m "added class"
+ 1362  git status
+ 1363  git push
+ 1364  git remote add class_Person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1365  git push
+ 1366  git status
+ 1367  git log
+ 1368  git innit
+ 1369  git init
+ 1370  git push
+ 1371  git remote add class_person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1372  git push
+ 1373  git push class_Person.py
+ 1374  git push --set-upstream class_Person.py person/branc
+ 1375  git remote add class_Person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1376  git push class_Person.py
+ 1377  git status
+ 1378  git push
+ 1379  git pull
+ 1380  git-pull(1)
+ 1381  git branch --set-upstream-to=<remote>/<branch> person/branch
+ 1382  git pull class_Person.py person/branch
+ 1383  git status
+ 1384  git push
+ 1385  git remote add class_Person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1386  git push class_Person.py
+ 1387  git push --set-upstream class_Person.py person/branch
+ 1388  git pull
+ 1389  git checkout master
+ 1390  git pull
+ 1391  git checkout person/branch
+ 1392  git push
+ 1393  git push https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1394  git push --set-upstream https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git person/branch
+ 1395  git pull
+ 1396  git pull class_Person.py git push --set-upstream https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git person/branch
+ 1397  git pull
+ 1398  git push
+ 1399  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1400  git log
+ 1401  git status
+ 1402  git push
+ 1403  git push class_Person.py
+ 1404  git push --set-upstream class_Person.py person/branch
+ 1405  git push --help
+ 1406  git push
+ 1407  git init
+ 1408  git push
+ 1409  git remote add . https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1410  git remote add class_Person.py https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1411  git pull class_Person.py
+ 1412  git pull class_Person.py person/branch
+ 1413  git push
+ 1414  git push class_Person.py
+ 1415  git push --set-upstream class_Person.py person/branch
+ 1416  /usr/bin/python3 /home/recruit/Desktop/workspace/person/Nkateko-Mabaso-223-person-python/class_Person.py
+ 1417  git pull
+ 1418  git status
+ 1419  git add class_python.py
+ 1420  git pyll
+ 1421  git pull
+ 1422  git branch
+ 1423  git status
+ 1424  git checkout person/branch
+ 1425  git status
+ 1426  git checkout person-work-branch
+ 1427  git log
+ 1428  https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.git
+ 1429  https://github.com/Umuzi-org/Nkateko-Mabaso-223-person-python.gitgit status
+ 1430  git status
+ 1431  git add Nkateko-Mabaso-223-person-python/class_Person.py
+ 1432  git status
+ 1433  git touch class_Person.py
+ 1434  git status
+ 1435  git pull
+ 1436  git status
+ 1437  git branch
+ 1438  git checkout master
+ 1439  git status
+ 1440  git checkout person/branch
+ 1441  git status
+ 1442  git checkout person-work-branch
+ 1443  git status
+ 1444  /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py
+ 1445  cd /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py
+ 1446  cd /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1447  cd /home
+ 1448  cd /recruit
+ 1449  cd /home/recruit
+ 1450  cd /home/recruit/Desktop/workspace/shoping list
+ 1451  cd /home
+ 1452  cd recruit
+ 1453  cd home
+ 1454  cd /home
+ 1455  cd
+ 1456  cd desktop
+ 1457  cd/ desktop
+ 1458  cd /desktop
+ 1459  ~/Desktop/workspace/person$
+ 1460  cd ~/Desktop/workspace/person$
+ 1461  cd /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1462  cd /home/recruit/Desktop
+ 1463  cd workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1464  cd workspace/shoping list
+ 1465  cd workspace
+ 1466  cd shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1467  cd shoping list
+ 1468  cd shopinglist
+ 1469  cd (shoping list)
+ 1470  cd workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1471  cd workspace/shoping list
+ 1472  cd workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1473  cd Nkateko-Mabaso-705-contentitem
+ 1474  cd Nkateko-Mabaso-705-contentitem-python
+ 1475  cd /Nkateko-Mabaso-705-contentitem-python
+ 1476  cd /home/recruit/Desktop/workspace/shoping list
+ 1477  cd /shoping list
+ 1478  cd /shoping-list
+ 1479  cd /"shoping list"
+ 1480  cd /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py
+ 1481  cd /shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py
+ 1482  cd /shoping list/Nkateko-Mabaso-705-contentitem-pytho
+ 1483  cd /shoping list
+ 1484  cd /Nkateko-Mabaso-705-contentitem-python/shopping_list.py
+ 1485  cd /Nkateko-Mabaso-705-contentitem-python
+ 1486  git branch
+ 1487  git status
+ 1488  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1489  git status
+ 1490  git add .
+ 1491  git branch
+ 1492  git add shopping_list.py
+ 1493  git commit -m "uodated shopping list"
+ 1494  git status
+ 1495  git push
+ 1496  git status
+ 1497  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1498  git status
+ 1499  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1500  git status
+ 1501  git add shopping_list.py
+ 1502  git commit -m "updated shop list"
+ 1503  git branch
+ 1504  git push
+ 1505  git status
+ 1506  git branch
+ 1507  git checkout task/4
+ 1508  git checkout task4
+ 1509  git status
+ 1510  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task4.py
+ 1511  git status
+ 1512  git add task4.py
+ 1513  git commit -m "update task4"
+ 1514  git push
+ 1515  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task4.py
+ 1516  git checkout main
+ 1517  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1518  git checkout task/5
+ 1519  git branch
+ 1520  git pull
+ 1521  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1522  git status
+ 1523  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task4.py
+ 1524  git add task4.py
+ 1525  git commit -m "disctiptive varibles"
+ 1526  git push
+ 1527  git checkout main
+ 1528  git checkout task/5
+ 1529  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1530  git add task5.py
+ 1531  git commit -m "cleaned code"
+ 1532  git checkout task4
+ 1533  git status
+ 1534  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1535  git status
+ 1536  git add task5.py
+ 1537  git commit -m "updated task5"
+ 1538  git push
+ 1539  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1540  git branch
+ 1541  git checkout main
+ 1542  git pull
+ 1543  git checkout task/5
+ 1544  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1545  git add task5.py
+ 1546  git commit -m "uodated task5"
+ 1547  git push
+ 1548  git checkout main
+ 1549  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1550  git add task5.py
+ 1551  git commit -m "updated task 5 iso "
+ 1552  git push
+ 1553  git pull
+ 1554  git branch
+ 1555  git push
+ 1556  git status
+ 1557  git checkout task/5
+ 1558  git status
+ 1559  git branch
+ 1560  git checkout main
+ 1561  git pull
+ 1562  git branch task2.3
+ 1563  git branch
+ 1564  git checkout branch task2.3
+ 1565  git checkout task2.3
+ 1566  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task2.3.py
+ 1567  git status
+ 1568  git add task2.3
+ 1569  git add task2.3.py
+ 1570  git commit -m "added task 2.3"
+ 1571  git push
+ 1572  git push --set-upstream origin task2.3
+ 1573  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task2.3.py
+ 1574  git branch
+ 1575  git pull
+ 1576  git branch
+ 1577  git pull
+ 1578  git checkout shopping/list
+ 1579  git status
+ 1580  git pull
+ 1581  git status
+ 1582  git commit -m "fixing shop list"
+ 1583  git pull
+ 1584  git status
+ 1585  git add shopping_list.py
+ 1586  git pull
+ 1587  git commit -m "added file"
+ 1588  git pull
+ 1589  git status
+ 1590  git branch
+ 1591  git checkout shopping/list
+ 1592  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1593  cd 
+ 1594  cd desktop
+ 1595  ls
+ 1596  cd/
+ 1597  cd/desktop
+ 1598  cd
+ 1599  cd home
+ 1600  cd
+ 1601  ls
+ 1602  cd Desktop
+ 1603  ls
+ 1604  codecamp.py
+ 1605  cd codecamp.py
+ 1606  codecamp.py
+ 1607  python3 codecamp.py
+ 1608  pwd
+ 1609  ls
+ 1610  python3 codecamp.py
+ 1611  /usr/bin/python3 /home/recruit/Desktop/codecamp.py
+ 1612  pwd
+ 1613  cd
+ 1614  pwd
+ 1615  cd Desktop
+ 1616  cd codecamp.py
+ 1617  ls
+ 1618  git status
+ 1619  Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python
+ 1620  cd workspace
+ 1621  cd shoping list
+ 1622  ls
+ 1623  cd 'shoping list'
+ 1624  ls
+ 1625  git status
+ 1626  cd Nkateko-Mabaso-705-contentitem-python
+ 1627  ls
+ 1628  python3 shopping_list.py
+ 1629  git status
+ 1630  git staus
+ 1631  git status
+ 1632  git add shopping_list.py
+ 1633  git commit -m "saved file"
+ 1634  git status
+ 1635  ls
+ 1636  python3 print(hello).py
+ 1637  /usr/bin/python3 Untitled-1
+ 1638  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py"
+ 1639  cd
+ 1640  cd Desktop
+ 1641  ls
+ 1642  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py"
+ 1643  cd /home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py
+ 1644  cd workspace
+ 1645  cd 'shopping list'
+ 1646  cd shoping list'
+ 1647  cd 'shoping list'
+ 1648  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py"
+ 1649  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py"
+ 1650  cd 'print("hello")
+ 1651  cd 'print("hello")"
+ 1652  cd 'print("hello")
+ 1653  cd 'print("hello")'
+ 1654  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print("hello").py"
+ 1655  ls
+ 1656  cd Desktop
+ 1657  cd
+ 1658  cd DEsktop
+ 1659  cd Desktop
+ 1660  /usr/bin/python3 Untitled-1
+ 1661  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print.py"
+ 1662  ls
+ 1663  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print.py"
+ 1664  cd workspace
+ 1665  cd 'shoping list'
+ 1666  cd Nkateko-Mabaso-705-contentitem-python
+ 1667  ls
+ 1668  print.py
+ 1669  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/print.py"
+ 1670  python3 print.py
+ 1671  ls
+ 1672  echo enable
+ 1673  echo enabled
+ 1674  lsusb
+ 1675  /usr/bin/python3 /home/recruit/Desktop/codecamp.py
+ 1676  printenv > /tmp/tmp-1785LQGDL8cg0Rbztxt
+ 1677  /usr/bin/python3 /home/recruit/Desktop/codecamp.py
+ 1678  1332
+ 1679  /usr/bin/python3 /home/recruit/Desktop/codecamp.py
+ 1680  336
+ 1681  /usr/bin/python3 /home/recruit/Desktop/codecamp.py
+ 1682  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question2.py
+ 1683  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task4.py
+ 1684  /usr/bin/python3 /home/recruit/Desktop/workspace/Katas/Nkateko-Mabaso-219-level-1-programming-katas-python/task5.py
+ 1685  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question7.py
+ 1686  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task7.py"
+ 1687  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1688  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1689  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1690  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1691  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1692  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1693  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1694  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1695  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1696  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1697  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1698  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1699  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1700  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1701  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1702  /usr/bin/python3 "/home/recruit/Desktop/workspace/shoping list/Nkateko-Mabaso-705-contentitem-python/shopping_list.py"
+ 1703  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1704  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1705  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1706  /usr/bin/python3 /home/recruit/Desktop/workspace/python/question10.py
+ 1707  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1708  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1709  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task10.py"
+ 1710  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1711  ls
+ 1712  ls -lrh
+ 1713  ls/data
+ 1714  ls /data
+ 1715  ls / Downloads
+ 1716  ls /
+ 1717  pwd
+ 1718  cd Desktop
+ 1719  cd
+ 1720  mkdir Learning_unix
+ 1721  ls
+ 1722  cd Learnig_unix
+ 1723  cd Learning)unix
+ 1724  cd Learning unix
+ 1725  cd Learning_unix
+ 1726  mkdir Outer_directory
+ 1727  cd Outer_directory
+ 1728  mkdir Inner_directory
+ 1729  cd /
+ 1730  cd home
+ 1731  cd ubuntu
+ 1732  cd
+ 1733  cd Learning_unix/Outer_directory_Inner_directory
+ 1734  cd Learning_unix/Outer_directory/Inner_directory
+ 1735  cd/home
+ 1736  cd /home
+ 1737  cb
+ 1738  cd
+ 1739  cd Learning_unix/Outer_directory/Inner_directory
+ 1740  cd
+ 1741  cd Learning_unix/Outer_directory/Inner_directory
+ 1742  cd /Learning_unix
+ 1743  cd /Learning_unix/Outer_directory
+ 1744  cd/
+ 1745  cd /
+ 1746  cd
+ 1747  cd Learing_unix
+ 1748  cd Learning_unix
+ 1749  cd
+ 1750  cd Learning_unix/
+ 1751  cd ..
+ 1752  cd Learning_unix/
+ 1753  cd ../..
+ 1754  cd /
+ 1755  pwd
+ 1756  cd ~
+ 1757  pwd
+ 1758  cd
+ 1759  pwd
+ 1760  cd /
+ 1761  cd ~/Learning_unix
+ 1762  cd
+ 1763  cd ..
+ 1764  cd /
+ 1765  cd
+ 1766  cd Learinig_unix
+ 1767  cd Learning unix
+ 1768  cd Learning_unix
+ 1769  cd
+ 1770  cd ~/Outer_directory
+ 1771  cd ~/ Learning_unix
+ 1772  cd ~/Learning_unix
+ 1773  cd ~/ Learning_unix/Outer_directory/Inner_directory
+ 1774  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1775  ls ../..
+ 1776  ls
+ 1777  ls ..
+ 1778  cd ..
+ 1779  cd /Inner_directory
+ 1780  cd ~/Inner_directory
+ 1781  ls
+ 1782  cd /Inner_directory
+ 1783  cd Inner_directory
+ 1784  cd ../..
+ 1785  cd /OUter_directory
+ 1786  cd /Outer_directory
+ 1787  cd ~/Outer_directory
+ 1788  ls
+ 1789  cd ~/Outer_directory
+ 1790  cd ~/ Outer_ddirectory
+ 1791  cd ~/Outer_diectory/Inner_directory
+ 1792  cd ~/Outer_directory/Inner_directory
+ 1793  cd ~/Learnig_unix/Outer_directory/Inner_directory
+ 1794  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1795  cd 
+ 1796  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1797  cd /
+ 1798  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1799  cd ..
+ 1800  cd /Learning_unix/Outer_directory
+ 1801  cd /Outer_directory/Inner_directory
+ 1802  cd ~/Outer_directory/Inner_directory
+ 1803  cd /Inner_directory
+ 1804  cd Inner_directory
+ 1805  cd ..
+ 1806  cd /..
+ 1807  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1808  cd ../..
+ 1809  cd OUter_directory
+ 1810  cd Outer_directory
+ 1811  cd ~/Inner_directory
+ 1812  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1813  lg ..
+ 1814  ls ..
+ 1815  ls ../..
+ 1816  cd ../../..
+ 1817  cd Learning_unix
+ 1818  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1819  ls -l /home
+ 1820  ls -l /recruit
+ 1821  ls -l
+ 1822  ls -R
+ 1823  ls -R ../../../
+ 1824  ls -R ../..
+ 1825  ls -R ../../..
+ 1826  ls -l -t -r
+ 1827  ls -lh
+ 1828  cd
+ 1829  ls
+ 1830  cd recruit
+ 1831  cd home
+ 1832  cd /home
+ 1833  ls
+ 1834  ls -l
+ 1835  ls -R
+ 1836  ls -l -t -r
+ 1837  ls -r
+ 1838  ls -l
+ 1839  ls
+ 1840  ls -t
+ 1841  ls -r
+ 1842  ls -lh
+ 1843  man ls
+ 1844  cd ~/Learning_unix/Outer_directory/Inner_directory
+ 1845  rmdir Inner_directory
+ 1846  rmdir Inner_directory/
+ 1847  cd ..
+ 1848  rmdir Inner_directory
+ 1849  cd ..
+ 1850  rmdir Outer_directory
+ 1851  ls
+ 1852  cd
+ 1853  cd home
+ 1854  cd /home
+ 1855  cd Learning_unix
+ 1856  cd /Learning_unix
+ 1857  cd ~/Learning_unix
+ 1858  ls
+ 1859  ls /
+ 1860  ls
+ 1861  ls/
+ 1862  ls /
+ 1863  pwd
+ 1864  man ls /
+ 1865  man ls/
+ 1866  apt-get install git
+ 1867  pt-get install git
+ 1868  apt-get install git
+ 1869  cd
+ 1870  cd /
+ 1871  apt-get install git
+ 1872  cd
+ 1873  ls
+ 1874  apt-get install git
+ 1875  pacman -S git
+ 1876  apt-get install git
+ 1877  pacman -S git
+ 1878  sudo apt-get install git
+ 1879  sudo add-apt-repository ppa:git-core/ppa
+ 1880  sudo apt-get install git
+ 1881  sudo add-apt-repository ppa:git-core/ppa
+ 1882  sudo apt-get install git
+ 1883  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1884  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task9.py"
+ 1885  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task8.py"
+ 1886  /usr/bin/python3 "/home/recruit/Desktop/workspace/BOOTCAMP /task folder/task10.py"
+ 1887  pwd
+ 1888  ls
+ 1889  cd /workspace
+ 1890  cd workspace
+ 1891  ls
+ 1892  cd BOOTCAMP
+ 1893  cd /BOOTCAMP
+ 1894  cd -/BOOTCAMP
+ 1895  LS -a
+ 1896  ls -a
+ 1897  cd /BOOTCAMP
+ 1898  LS
+ 1899  ls
+ 1900  cd bootcamp
+ 1901  ls
+ 1902  cd 'GIT BASIC EXCERCISES'
+ 1903  ls
+ 1904  cd (git basic excercises)
+ 1905  cd /git-basic-excercises
+ 1906  ls
+ 1907  cd 'git basic excrecises'
+ 1908  cd 'git basic excerecises'
+ 1909  cd 'git basic excercises'
+ 1910  ls
+ 1911  mkdir git-basic-excercises
+ 1912  ls
+ 1913  cd git-basic-excercises
+ 1914  ls -a
+ 1915  git init
+ 1916  ls -a
+ 1917  git status
+ 1918  touch README.md
+ 1919  ls -a
+ 1920  git status
+ 1921  git log
+ 1922  git add.
+ 1923  git add .
+ 1924  git status
+ 1925  git rm --README.md
+ 1926  status
+ 1927  git status
+ 1928  git rm --README.md
+ 1929  git status
+ 1930  git commit -m "initial commit"
+ 1931  git log
+ 1932  nano README.md
+ 1933  cat README.md
+ 1934  git status
+ 1935  git add README.md
+ 1936  git status
+ 1937  git commit -m "Second commit"
+ 1938  nano README.md
+ 1939  car README.md
+ 1940  cat README.md
+ 1941  git status
+ 1942  git add README.md
+ 1943  git commit -m "Commmit number 3"
+ 1944  git status
+ 1945  git log
+ 1946  ls -a
+ 1947  git log
+ 1948  git checkout 138e4a5bd47b34b839b5d459377e1657caafd2c7
+ 1949  cat README.md
+ 1950  git checkout main
+ 1951  git checkout master
+ 1952  cat REWADME.md
+ 1953  cat README.md
+ 1954  /usr/bin/python3 "/home/recruit/Desktop/workspace/bootcamp/task folder/task10.py"
+ 1955  ls
+ 1956  git status
+ 1957  cd git-basic-excercises
+ 1958  cd ~/ git-basic-excercises
+ 1959  cd / git-basic-excercises
+ 1960  cd ~/git-basic-excercises
+ 1961  ls
+ 1962  cd
+ 1963  pwd
+ 1964  cd ~/git-basic-excercises
+ 1965  pwd
+ 1966  cd
+ 1967  cd /Desktop
+ 1968  cd ~/Desktop
+ 1969  ls
+ 1970  workspace/bootcamp/git\ basic\ excercises/
+ 1971  workspace/bootcamp/git\ basic\ excercises
+ 1972  cd /workspace/bootcamp/git\ basic\ excercises
+ 1973  cd ~/workspace/bootcamp/git\ basic\ excercises
+ 1974  cd ~/workspace/bootcamp
+ 1975  cd ~/workspace/bootcamp/
+ 1976  cd ~/workspace
+ 1977  cd /workspace
+ 1978  cd workspace/
+ 1979  ls
+ 1980  cd bootcamp/
+ 1981  ls
+ 1982  cd git\ basic\ excercises/
+ 1983  ls
+ 1984  cd git-basic-excercises/
+ 1985  ls
+ 1986  git branch
+ 1987  git branch milkshake-flavours
+ 1988  git branch
+ 1989  git checkout milkshake-flavours
+ 1990  git branch
+ 1991  nano milkshakes.md
+ 1992  git status
+ 1993  git add.
+ 1994  git add .
+ 1995  git commit ~m "added my first flavours"
+ 1996  git status
+ 1997  git log
+ 1998  git commit -m "added initial flavours"
+ 1999  git status
+ 2000  git log
+ 2001  git checkout master
+ 2002  git branch
+ 2003  ls
+ 2004  git status
+ 2005  git log
+ 2006  git branch
+ 2007  git branch history
+ 2008  git branch
+ 2009  git log
+ 2010  history > history.txt
